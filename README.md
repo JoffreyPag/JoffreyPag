@@ -2,7 +2,7 @@
 
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal University of Rio Grande do Norte.
 - :mortar_board: Postgraduate in Residency in Software from the Federal University of Pernambuco.
-- :telescope: I am currently working with Front-End, Mobile using React Native and Kotlin, Video Game Development.
+- :telescope: I am currently looking to work with Front-End, Mobile using React Native and Kotlin, Video Game Development.
 - :video_game: Indie Game Dev on free time learning Unity C# and Game Maker Language.
 
 :mailbox: Contact me on:

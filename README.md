@@ -5,6 +5,14 @@
 - :telescope: I am currently looking to work with Front-End, Mobile using React Native and Kotlin, Video Game Development.
 - :video_game: Indie Game Dev in free time learning Unity C# and Game Maker Language.
 
+:scroll: Current Skills:
+
+![bagde](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![bagde](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![bagde](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bagde](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 :mailbox: Contact me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joffrey-peyrac-3772ab140/)

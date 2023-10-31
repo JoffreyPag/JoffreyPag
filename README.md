@@ -2,13 +2,12 @@
 
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal University of Rio Grande do Norte.
 - :mortar_board: Postgraduate in Residency in Software from the Federal University of Pernambuco.
-- :telescope: I am currently looking to work with Software development using C#, Kotlin or Javascript languages.
-- :video_game: Indie Game Dev in free time learning Unity C# and Game Maker Language.
+- :telescope: I am currently looking to work with Software development using C#, Kotlin or Java languages.
+- :video_game: Indie Game Dev in free time learning Unity C# and Godot.
 
 :scroll: Current Skills:
 
 ![bagde](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![bagde](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 

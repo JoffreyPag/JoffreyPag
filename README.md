@@ -3,7 +3,7 @@
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal University of Rio Grande do Norte.
 - :mortar_board: Postgraduate in Residency in Software from the Federal University of Pernambuco.
 - :telescope: I am currently looking to work with Software development using C#, Kotlin or Java languages.
-- :video_game: Indie Game Dev in free time learning Unity C# and Godot.
+- :video_game: Indie Game Dev in free time learning Unity and Godot.
 
 :scroll: Current Skills:
 
